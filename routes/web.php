@@ -15,7 +15,7 @@ use App\Http\Controllers\Inventario\BOMController as InventarioBOMController;
 use App\Http\Controllers\Reportes\ReporteController;
 use Illuminate\Http\Request;
 
-/*
+/*darwin modifico esto xd
 |--------------------------------------------------------------------------
 | Web Routes
 |--------------------------------------------------------------------------
